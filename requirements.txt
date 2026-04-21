@@ -1,0 +1,7 @@
+streamlit
+google-genai
+google-cloud-texttospeech
+google-cloud-aiplatform
+moviepy
+pillow
+numpy
