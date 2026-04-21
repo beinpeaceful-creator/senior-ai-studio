@@ -36,7 +36,7 @@ def authenticate_google():
         if "google" in st.secrets:
             creds_info = json.loads(st.secrets["google"]["credentials"])
             credentials = service_account.Credentials.from_service_account_info(creds_info)
-            return credentials, creds_info["project_id"]
+            return credentials, creds_info["project-5aa14674-499b-4cc7-88d"]
         return None, None
     except: return None, None
 
