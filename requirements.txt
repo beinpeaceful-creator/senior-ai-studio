@@ -2,6 +2,7 @@ streamlit
 google-genai
 google-cloud-texttospeech
 google-cloud-aiplatform
+google-auth
 moviepy
 pillow
 numpy
